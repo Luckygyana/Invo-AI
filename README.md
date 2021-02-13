@@ -6,11 +6,8 @@ We propose an extraction system that use knowledge of the types of the target fi
 > Subject: &nbsp; &emsp; &emsp; &nbsp;**Invo-AI** <br>
 > Topic:&emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp;**Electronic Invoicing using Image Processing** <br>
 > Assignment: &emsp;  **Source Code (Final Presentation)** <br>
-> Authors:&ensp; &ensp; &emsp; &nbsp; **GAURAV KUMAR, AYUSH SOMANI, GYANENDRA DAS** <br>
+> Authors:&ensp; &ensp; &emsp; &nbsp; **GYANENDRA DAS** <br>
 > Date: &ensp; &ensp; &emsp; &emsp; &nbsp; July 8,2020  <br>
-<figure>
-  <img src='screen.png' align="center"/> 
-</figure>
 <br>
 
 ## Developing an Automatic Invoice Extraction system using Python <br>
